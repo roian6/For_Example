@@ -1,0 +1,7 @@
+git config --global user.name "roian6"
+git config --global user.email "roian6@naver.com"
+git init
+git add --all
+git commit -m "android study"
+git remote add origin https://github.com/roian6/.git
+git push -u origin master
