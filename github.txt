@@ -4,4 +4,5 @@ git init
 git add --all
 git commit -m "android study"
 git remote add origin https://github.com/roian6/.git
+git pull --rebase origin master
 git push -u origin master
